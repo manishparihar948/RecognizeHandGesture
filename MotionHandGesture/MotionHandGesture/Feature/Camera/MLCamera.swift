@@ -15,5 +15,5 @@ final class MLCamera: Camera {
         return request
     }()
     
-    // var currentMLModel: HandPoseMLModel?
+    var currentMLModel: HandPoseMLModel?
 }
