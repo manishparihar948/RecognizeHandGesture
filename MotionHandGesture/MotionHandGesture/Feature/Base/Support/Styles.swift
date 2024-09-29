@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+import SwiftUI
 
 struct CellStyle: ViewModifier {
     var cornerRadius: CGFloat = 15.0
